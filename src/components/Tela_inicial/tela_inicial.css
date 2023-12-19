@@ -1,7 +1,22 @@
-.Tela_inicial {
+.tela_inicial {
     background-color: #343A40;
 }
-
-.Tela_inicial img{
+.slogan img{
+    position: absolute;
     max-width: 100%;
+    width: 1125px;
+    height: 158.09px;
+    left: 250px;
+    top: 314.91px;
+    color: #FFFFFF;
+   
+    margin-top: 10px;
+}
+.tela_inicial img{
+    max-width: 100%;
+    
+    position: relative;
+}
+.slogan img{
+    position: absolute;
 }
