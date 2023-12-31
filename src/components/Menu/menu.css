@@ -2,11 +2,18 @@
     position: absolute;
     width: 174px;
     height: 67px;
-    left: 700px;
+    left: 44vw;
     top: 11px;
+    align-items: center;
+    justify-content: center;
+}
+.botoesMenu {
+    display: flex;
 }
 
-
-
+.botao{
+    list-style: none;
+    
+}
 
 
