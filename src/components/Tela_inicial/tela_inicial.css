@@ -4,8 +4,8 @@
 .slogan img{
     position: absolute;
     max-width: 100%;
-    width: 1125px;
-    height: 158.09px;
+    width: 1100px;
+    height: 158px;
     left: 225px;
     top: 314.91px;
     color: #FFFFFF;
@@ -16,7 +16,4 @@
     max-width: 100%;
     
     position: relative;
-}
-.slogan img{
-    position: absolute;
 }

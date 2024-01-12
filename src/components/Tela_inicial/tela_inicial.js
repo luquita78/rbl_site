@@ -2,7 +2,7 @@ import "./tela_inicial.css"
 
 function Tela_inicial () {
     return(
-        <header id = "#">
+        <section>
             <div className="slogan">
                 <img src="/imagens/SLOGAN.png" alt="SLOGAN"></img>
             </div>
@@ -10,7 +10,7 @@ function Tela_inicial () {
              <img src="/imagens/FUNDO.png" alt="tela de fundo"></img>
             </div>
             
-        </header>
+        </section>
         
     )
 }
