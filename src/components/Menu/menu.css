@@ -9,16 +9,18 @@
 }
 .botoesMenu {
     display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 
-.botaoParceiros{
+.botaoQuemSomos{
     position: absolute;
-    font-size: 20px;
+    font-size: 16px;
     width: 88px;
     height: 20px;
-    left: 405px;
-    top:10px;
+    left: 300px;
+    top:20px;
 
 
     list-style: none;
@@ -33,4 +35,64 @@
     
 }
 
+.botaoParceiros{
+    position: absolute;
+    font-size: 16px;
+    width: 125px;
+    height: 20px;
+    left: 500px;
+    top: 20px;
+
+
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+    min-width: 120px;
+    color: #ffff;
+}
+
+.botaoServicos{
+    position: absolute;
+    font-size: 16px;
+    width: 81px;
+    height: 20px;
+    left: 970px;
+    top:20px;
+
+
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+    min-width: 120px;
+    
+    color: #ffff;
+}
+
+.botaoContato{
+    position: absolute;
+    font-size: 16px;
+    width: 88px;
+    height: 20px;
+    left: 1170px;
+    top:20px;
+
+
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+    min-width: 120px;
+    color: #ffff;
+} 
 
