@@ -1,6 +1,7 @@
 .App{
     width: 100vw;
     height: 100vh;
+    position: fixed;
     background-color: #343A40;
     background-image:url('./imagens/FUNDO.png');
     background-size: cover;
