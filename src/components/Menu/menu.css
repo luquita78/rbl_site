@@ -10,8 +10,9 @@
 .botoesMenu {
     display: flex;
     align-items: center;
+    text-align: center;
     justify-content: center;
-    
+    list-style: none;
 }
 
 .botaoQuemSomos{
@@ -22,12 +23,6 @@
     left: 300px;
     top:20px;
 
-
-    list-style: none;
-    justify-content: center;
-    align-items: center;
-    text-align:center;
-    height: 100%;
     padding: 0 5px;
     cursor: pointer;
     min-width: 120px;
@@ -43,12 +38,6 @@
     left: 500px;
     top: 20px;
 
-
-    list-style: none;
-    justify-content: center;
-    align-items: center;
-    text-align:center;
-    height: 100%;
     padding: 0 5px;
     cursor: pointer;
     min-width: 120px;
@@ -63,12 +52,6 @@
     left: 970px;
     top:20px;
 
-
-    list-style: none;
-    justify-content: center;
-    align-items: center;
-    text-align:center;
-    height: 100%;
     padding: 0 5px;
     cursor: pointer;
     min-width: 120px;
@@ -85,11 +68,8 @@
     top:20px;
 
 
-    list-style: none;
-    justify-content: center;
-    align-items: center;
-    text-align:center;
-    height: 100%;
+    
+    
     padding: 0 5px;
     cursor: pointer;
     min-width: 120px;
