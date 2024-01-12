@@ -10,10 +10,10 @@ function Menu () {
             </div>
             <div>
                <ul className ="botoesMenu">
-                    <li className='botao'><p>Parceiros</p></li>
-                    <li className='botao'><p>Quem Somos</p></li>
-                    <li className='botao'><p>Serviços</p></li>
-                    <li className='botao'><p>Contato</p></li>
+                    <li className='botaoParceiros'><p>Parceiros</p></li>
+                    <li className='botaoQuemSomos'><p>Quem Somos</p></li>
+                    <li className='botaoServicos'><p>Serviços</p></li>
+                    <li className='botaoContato'><p>Contato</p></li>
                 </ul> 
                 
             </div>
