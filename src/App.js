@@ -5,13 +5,13 @@ import TelaInicial from './components/Tela_inicial/tela_inicial';
 function App() {
   return (
     <div className="App">
+      <section className='pagina-inicial'>
       <header className='App-header'>
         <Menu/>
       </header>
-      <section className='pagina-inicial'>
         <TelaInicial/>
-
       </section>
+      
       
     </div>
   );
